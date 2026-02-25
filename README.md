@@ -1,6 +1,7 @@
 # Contando 1 a 9 - Display de 7 Segmentos
 
-![alt text](image-1.png)
+<img width="1395" height="753" alt="image-1 (1)" src="https://github.com/user-attachments/assets/1a070cb8-fa78-4864-8613-7d5b5c74c70e" />
+
 
 Um projeto Arduino que controla um **display de 7 segmentos** para contar e exibir números de 0 a 9 sequencialmente.
 
